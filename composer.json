@@ -1,0 +1,17 @@
+{
+    "name": "jlib/plugins",
+    "authors": [
+        {
+            "name": "Yousif Aziz",
+            "email": "yousif.aziz@hive-ad.com"
+        }
+    ],
+       "require": {
+        "jlib/base": ">=0.2.0"
+    },
+"autoload": {
+    "psr-4": {
+      "Jlib\\Plugins\\": "src/"
+    }
+  }
+}
