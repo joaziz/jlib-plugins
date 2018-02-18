@@ -1,5 +1,6 @@
 {
     "name": "jlib/plugins",
+  "license": "MIT",
     "authors": [
         {
             "name": "Yousif Aziz",
